@@ -4,7 +4,7 @@ const prefix = '.'
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(` #The Presidency Zila. `,"http://twitch.tv/Catraz")
+client.user.setGame(` #Catraz Venom Network 4k .. `,"http://twitch.tv/Catraz")
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
